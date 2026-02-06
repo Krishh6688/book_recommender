@@ -1,0 +1,13 @@
+# ===============================
+# Core Data Science Libraries
+# ===============================
+numpy
+pandas
+scikit-learn
+scipy
+
+# ===============================
+# Visualization / UI
+# ===============================
+streamlit
+
